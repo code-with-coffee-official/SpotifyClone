@@ -119,16 +119,16 @@ a {
   overflow: auto;
 }
 
-.main-lib::-webkit-scrollbar{
+.main-lib::-webkit-scrollbar {
   width: 0.9rem;
 }
 
-.main-lib::-webkit-scrollbar-track{
+.main-lib::-webkit-scrollbar-track {
   background-color: transparent;
 }
 
-.main-lib::-webkit-scrollbar-thumb{
-   background-color: rgba(255, 255, 255,0.4);
+.main-lib::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.4);
 }
 
 .card {
